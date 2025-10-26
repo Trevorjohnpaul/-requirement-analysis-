@@ -25,5 +25,28 @@ Basis for Design and Development: Provides a solid foundation for designing and 
  -Requirement Validation:Reviews and validates the requirements with stakeholders.
 
  # Types of Requirements
+ Functional Requirements -They describe what the system should do  examples User authentication, property search, booking system, user registration.
+ Non-functional Requirements-They describe how the system should perform examples Performance, security, scalability, usability, reliability.
+
+ # Use Case Diagram
+ Use case diagrams are diagrams that show how different users  interact with the system to achieve specific goals.
+
+ # Acceptance Criteria.
+ Importance :
+ 
+-Ensure all parties have a clear understanding of feature requirements.
+-Provide a basis for testing and validation.
+-Help in maintaining quality and meeting user expectations.
+
+ Example of Checkout feature:
+-Checkout feature must also show booking details, support the choice of the secure payment method, verify the payment information, confirm the successful transactions with the help of receipts, gracefully accept failed payments, and guarantee the encryption of data and adherence to the security requirements of PCI-DSS.
 
  
+ 
+ 
+
+
+
+
+
+
